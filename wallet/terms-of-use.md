@@ -106,7 +106,7 @@ OWND Wallet 利用規約
 
 ### 第12条　利用者情報の取扱
 
-1. 事務局による利用者の利用者情報の取扱については、[OWND Wallet プライバシーポリシー](https://www.ownd-project.com/wallet/privacy/index.html)の定めによるものとし、利用者はこのプライバシーポリシーに従って事務局が利用者の利用者情報を取扱うことについて同意するものとします。
+1. 事務局による利用者の利用者情報の取扱については、[OWND Wallet プライバシーポリシー](https://www.ownd-project.com/wallet/privacy/index.html)の定めによるものとします。
 
 ### 第13条　本規約等の変更
 
