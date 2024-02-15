@@ -1,4 +1,4 @@
-OWND Messenger プライバシーポリシー（案）
+OWND Messenger プライバシーポリシー
 ========
 
 ### はじめに
